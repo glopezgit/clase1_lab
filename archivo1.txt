@@ -1,1 +1,3 @@
 este es el archivo 1 txt
+
+nueva linea de del archivo 1
