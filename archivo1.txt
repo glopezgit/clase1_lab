@@ -7,3 +7,5 @@ nueva
 otra
 otra
 otra
+
+Podemos crear un proyecto de web con varias páginas y lo construimos entre varios
