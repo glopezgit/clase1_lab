@@ -9,3 +9,7 @@ otra
 otra
 
 Podemos crear un proyecto de web con varias páginas y lo construimos entre varios
+
+creando remas con git branch nombrerama
+cambiando de rama con git checkout nombrerama
+consultando en qué rama estamos parados con git branch
